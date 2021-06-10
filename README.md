@@ -24,4 +24,7 @@ The dataset used is part of the kaggle competition : https://www.kaggle.com/c/gh
 Kmean_image_compression : shows how can we use KNN to simply compress an image . It also uses opencv to read an image , can be used as a starting point to understand opencv.
 
 beginner-trying-logistic-regression : uses logistic regression on the famous titanic dataset .
+
 using-random-forest : uses random_forest on the same dataset . The accuracy will improve greatly when we very carefully analyse the dataset , specifically in this case it will help if you just try to look for outlier points and just try to check if it is possible to remove them .
+
+whats-cooking : uses logistic regression to try to predict the dish cuisine based n the ingredients given . The dataset used is part of kaggle competition : https://www.kaggle.com/c/whats-cooking
