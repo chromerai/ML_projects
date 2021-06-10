@@ -21,3 +21,5 @@ house_price_prediction_simple_linear : uses linear regression to predict the tax
 ghouls-goblins-Neural net uses keras sequential model and dense layers to create a neural net to classify data into ghouls - goblins -ghosts .
 The dataset used is part of the kaggle competition : https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo
 
+Kmean_image_compression : shows how can we use KNN to simply compress an image . It also uses opencv to read an image , can be used as a starting point to understand opencv.
+
